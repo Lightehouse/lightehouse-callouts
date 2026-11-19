@@ -11,7 +11,7 @@ i only test these on the default theme. i'm sorry if they break on other themes 
 2. place them in your snippets folder .obsidian/snippets
 3. enable them in Appearance -> CSS Snippets
 
-for the best effect, you will have to install the [Hylia Serif Beta](https://artsyomni.com/hyliaserif) font (for the titles) and the Calamity font (for the body) onto your device.  
+for the best effect, you will have to install the [Hylia Serif Beta](https://artsyomni.com/hyliaserif) font (for the titles) and the [Calamity](https://www.dropbox.com/scl/fi/anw1nn40x7hwj5of95f4k/Calamity-Regular.zip?e=2&file_subpath=%2FCalamity-Regular.otf&rlkey=oa52uywqlols1qehprxd283jt&dl=0) font (for the body) onto your device.  
 
 # sage
 <img width="1081" height="250" alt="image" src="https://github.com/user-attachments/assets/4ff4a966-3b54-41bb-926c-bc33efaf03c5" />
