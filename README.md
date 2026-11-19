@@ -1,6 +1,8 @@
 # Lighte's Callouts
----
 i make callouts sometimes. 
+
+please note that i'm an amateur css stylist at best and these are probably unoptimized for literally anything.
+i only test these on the default theme. i'm sorry if they break on other themes orz
 
 ---
 
@@ -8,6 +10,8 @@ i make callouts sometimes.
 1. download the css files you want to use
 2. place them in your snippets folder .obsidian/snippets
 3. enable them in Appearance -> CSS Snippets
+
+for the best effect, you will have to install the [Hylia Serif Beta](https://artsyomni.com/hyliaserif) font (for the titles) and the Calamity font (for the body) onto your device.  
 
 # sage
 a customizable callout themed around the five sages and princess zelda. these are a dark mode only theme, please feel free to edit and adapt them to light mode as well. 
