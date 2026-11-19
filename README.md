@@ -14,6 +14,8 @@ i only test these on the default theme. i'm sorry if they break on other themes 
 for the best effect, you will have to install the [Hylia Serif Beta](https://artsyomni.com/hyliaserif) font (for the titles) and the Calamity font (for the body) onto your device.  
 
 # sage
+<img width="1081" height="250" alt="image" src="https://github.com/user-attachments/assets/4ff4a966-3b54-41bb-926c-bc33efaf03c5" />
+
 a customizable callout themed around the five sages and one more. these are a dark mode only theme, please feel free to edit and adapt them to light mode as well. 
 
 the base callout is called "sage", use callout metadata to change the theme. (sage is usable on its own, i just used my own personal accent color and the zonai letter 'l' for lightehouse :)
