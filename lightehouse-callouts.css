@@ -18,7 +18,6 @@ i learned from and referenced ElsaTam's Fancy-A-Story theme, specifically their 
 
 .callout[data-callout="sage"] {
     --callout-title-padding: 10px;
-  /* --callout-color: 255, 217. 168; */
     --callout-color: rgb(255,217,168);
 }
 
