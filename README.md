@@ -1,14 +1,35 @@
 # Lighte's Callouts
+---
 i make callouts sometimes. 
 
 ---
 
-# sage
-a customizable callout themed around the five sages and princess zelda.
+# Installation
+1. download the css files you want to use
+2. place them in your snippets folder .obsidian/snippets
+3. enable them in Appearance -> CSS Snippets
 
-the base callout is called "sage", use callout metadata to change the theme. 
+# sage
+a customizable callout themed around the five sages and princess zelda. these are a dark mode only theme, please feel free to edit and adapt them to light mode as well. 
+
+the base callout is called "sage", use callout metadata to change the theme. (sage is usable on its own, i just used my own personal accent color and the zonai letter 'l' for lightehouse :)
 
 ```
 > [!sage|wind]
-
 ```
+
+the available themes are wind, fire, water, lightning, spirit, and time. 
+
+please enable the "lightehouse-calloutbg" snippet if you want the swirl patterns as well. 
+
+---
+
+# Credits
+
+swirl pattern: risograph#0 https://www.figma.com/community/file/1255259745702285104/totk-svg-ui-icon-kit
+
+the zonai letter 'l': zeldawiki.wiki https://zeldawiki.wiki/wiki/Category:Tears_of_the_Kingdom_Symbols
+
+the sages' vows: zeldadungeon.net https://www.zeldadungeon.net/wiki/index.php?title=Category:Tears_of_the_Kingdom_Key_Item_Icon_Files&fileuntil=Traveler%27s+Saddle+-+TotK+icon.png%0ATraveler%27s+Saddle+-+TotK+icon.png#mw-category-media
+
+i learned from and referenced ElsaTam's Fancy-A-Story theme, specifically their "poem" style: https://github.com/ElsaTam/obsidian-fancy-a-story/blob/main/snippets/editor/callouts/callout-poem.css
